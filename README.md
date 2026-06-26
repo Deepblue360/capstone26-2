@@ -40,6 +40,7 @@
 ## ⚙️ 서비스 아키텍처
 <img width="506" height="310" alt="image" src="https://github.com/user-attachments/assets/95b7ef69-f82c-4774-856d-71754415f199" />
 
+---
 ## 🎥 데모 영상
 https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s
 

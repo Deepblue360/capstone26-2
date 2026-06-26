@@ -1,3 +1,7 @@
+
+
+
+
 # 🔍 TruthSync
 > **"단 한 번의 클릭으로, 기사 속 따옴표에서 원본 맥락 영상까지."**
 
@@ -43,7 +47,7 @@
 ---
 
 ## 🎥 데모 영상
-https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s
+=(https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s)
 
 ---
 

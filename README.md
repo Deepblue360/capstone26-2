@@ -1,21 +1,11 @@
-“TruthSync“
-<br />
-단 한 번의 클릭으로, 기사 속 따옴표에서 원본 맥락 영상까지.
-
-
-📌 프로젝트 소개
-
-<img width="455" height="296" alt="image" src="https://github.com/user-attachments/assets/55c7d72d-9058-4711-b311-fd3c17c4f2a8" />
-
-
-
-# 🔍 TruthSync
+#  TruthSync
 
 > **"단 한 번의 클릭으로, 기사 속 따옴표에서 원본 맥락 영상까지."** > 뉴스 기사의 자극적인 인용구(따옴표)를 드래그하여, 실제 발언이 담긴 원본 영상의 정확한 타임라인(시·분·초)을 1초 만에 찾아내는 크롬 익스텐션 및 맥락 연결 서비스입니다.
 
 <br />
 
 ## 1. 프로젝트 배경 및 문제 정의
+<img width="455" height="296" alt="image" src="https://github.com/user-attachments/assets/55c7d72d-9058-4711-b311-fd3c17c4f2a8" />
 
 ### 🚨 포털 중심 뉴스 생태계와 "따옴표 저널리즘"
 * [cite_start]**수익 모델과 자극성 심화:** 국내 디지털 신문 매출의 **75.8%**가 페이지뷰(PV) 기반 광고에 의존하고 있어, 언론사들은 트래픽 극대화를 위해 자극적인 인용구 중심의 기사를 양산하고 있습니다[cite: 4, 16].

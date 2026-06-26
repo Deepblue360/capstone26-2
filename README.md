@@ -44,7 +44,11 @@
 
 ## 🎥 데모 영상
 https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s
+### 📺 프로젝트 시연 영상
 
+[![TruthSync 시연 영상](https://img.youtube.com/vi/https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s
+/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s
+)
 ---
 
 ## ✔️ 결론

@@ -1,7 +1,5 @@
 
 
-
-
 # 🔍 TruthSync
 > **"단 한 번의 클릭으로, 기사 속 따옴표에서 원본 맥락 영상까지."**
 
@@ -9,7 +7,6 @@
 
 ## 📌 문제 정의 및 프로젝트 소개
 <img width="460" height="297" alt="image" src="https://github.com/user-attachments/assets/fbc4a4e4-3bcf-4a94-a40d-ad8d23f40386" />
-<img width="335" height="71" alt="image" src="https://github.com/user-attachments/assets/86e2a653-eb01-4582-bebb-9f3b6d0989ff" />
 
 
 * 우리는 뉴스 기사에서 수많은 인용구(따옴표)를 많이 볼수있고, 기사 내 인용문은 계속해서 늘어나고 있는 추세입니다.
@@ -19,6 +16,7 @@
 
 
 이러한 문제를 해결하기위해 TruthSync는 **뉴스 기사의 인용구를 원본 영상의 정확한 타임라인을 찾아내 재생하는** 기능을 통해 독자에게 원본 맥락을 판단할수있도록 도와줍니다.
+
 
 ---
 
@@ -49,6 +47,10 @@
 ## 🎥 데모 영상
 
 [https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s/vi/VIDEO_ID/0.jpg]
+
+
+https://github.com/user-attachments/assets/7af97152-16f3-4711-a5f7-44ae40218f3b
+
 
 ---
 

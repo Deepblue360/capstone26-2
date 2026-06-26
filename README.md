@@ -46,9 +46,6 @@
 
 ## 🎥 데모 영상
 
-[https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s/vi/VIDEO_ID/0.jpg]
-
-
 https://github.com/user-attachments/assets/7af97152-16f3-4711-a5f7-44ae40218f3b
 
 

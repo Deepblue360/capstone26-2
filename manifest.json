@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "TruthSync AI",
+  "version": "1.0.0",
+  "description": "네이버 뉴스 기사의 문장을 드래그하여 원본 영상의 정확한 시점으로 연동해 주는 서비스",
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://*.news.naver.com/*",
+    "http://localhost:8001/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.news.naver.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

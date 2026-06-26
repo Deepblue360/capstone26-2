@@ -39,7 +39,7 @@
 <img width="506" height="310" alt="image" src="https://github.com/user-attachments/assets/95b7ef69-f82c-4774-856d-71754415f199" />
 
 ## 🎥 데모 영상
-https://www.youtube.com/watch?v=rjXb4wvBREw&time_continue=36&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com
+https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s
 
 ##✔️ 결론
 * **TruthSync는 자극적인 따옴표 보도에 휘둘리지 않고 독자가 직접 원본의 맥락을 확인하여 정보의 판단의 주체성을 회복하도록 돕습니다.**

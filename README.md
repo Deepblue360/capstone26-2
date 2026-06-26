@@ -43,7 +43,7 @@
 ---
 
 ## 🎥 데모 영상
-(https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s)
+https://www.youtube.com/watch?v=rjXb4wvBREw&t=36s
 
 ---
 
